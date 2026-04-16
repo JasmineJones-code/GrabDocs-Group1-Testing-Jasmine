@@ -1,0 +1,30 @@
+#File Upload/Rename
+click "Files"
+wait 2 sec
+enter stored value "Receipt.pdf" into "Drop files, paste, or click to browse"
+wait 5 sec
+
+click "more actions" near "Receipt.pdf"
+click "Rename" 
+enter "Shoe_Store_Receipt" 
+click "Rename" 
+
+#Chat Testing
+click "ChatGD"
+wait 5 sec
+
+enter "Hello this is Jasmine from Group 1 Testing the ChatBot" into "Ask anything or send a message..."
+press Enter
+
+#Feedback Testing
+click "profile"
+wait 5 sec
+
+click "Feedback"
+wait 5 sec
+
+select "Feature Request" from "Category" 
+enter "Application is well designed and easy to follow" into "Title" 
+enter "The application is so well-designed and easy to utilize. The layout is very clear and features are easy accessible making a overall great user experience." into "Message" 
+
+click “Submit Feedback” 
