@@ -1,2 +1,8 @@
 # GrabDocs-Group1-Testing-Jasmine
-Automated Testing of the Application GrabDocs using TestRigor 
+This project consists of Automated Testing of the Application GrabDocs utilizing TestRigor 
+
+Tested Features: 
+-File upload and Rename 
+-ChatBot Messaging
+-Feedback Submission 
+
